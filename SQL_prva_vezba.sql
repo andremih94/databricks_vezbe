@@ -1,0 +1,1 @@
+SELECT home_team, away_team, stadium_name, stadium_capacity, attendance, stadium_capacity - attendance AS empty_seats FROM bootcamp.northern_star.matches_flat ORDER BY empty_seats DESC LIMIT 5;
