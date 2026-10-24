@@ -11,6 +11,8 @@ GROUP BY
 ORDER BY
   season;
 
+SELECT season, COUNT(*) total_matches, SUM(home_goals + away_goals) total_goals, ROUND(AVG(home_goals + away_goals), 2) avg_goals_per_match FROM matches GROUP BY season;
+
 -- 2. Za svaki stadion prikažite najmanju, najveću i prosečnu zabeleženu posetu, kao i broj utakmica za koje je poseta poznata.
 SELECT
   stadium_name,
