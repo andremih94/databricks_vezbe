@@ -1,3 +1,5 @@
 metric,value
-rows,10
-valid,6
+total_rows,10
+valid_rows,6
+rejected_rows,4
+total_revenue,294000.0

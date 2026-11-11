@@ -1,0 +1,5 @@
+invoice_id,date,customer,city,product,quantity,unit_price,reason
+ITB-003,2025-01-06,Jelena Ilić,Niš,Monitor,,22000,missing_quantity
+CSV-004,2025-01-06,Petar Nikolić,Beograd,Tastatura,1,3500,invalid_invoice
+ITB-007,2025-01-08,Ivana Marković,Beograd,Miš,-3,1500,invalid_quantity
+ITB-009,2025-01-09,Marko Petrović,Beograd,Monitor,2,abc,invalid_price

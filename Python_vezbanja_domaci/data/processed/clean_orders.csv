@@ -1,0 +1,7 @@
+invoice_id,date,customer,city,product,quantity,unit_price,total
+ITB-001,2025-01-05,Marko Petrović,Beograd,Laptop,1,85000,85000.0
+ITB-002,2025-01-05,Ana Jovanović,Novi Sad,Miš,2,1500,3000.0
+ITB-005,2025-01-07,Milan Stojanović,Kragujevac,Laptop,1,85000,85000.0
+ITB-006,2025-01-07,Ana Jovanović,Novi Sad,Monitor,1,22000,22000.0
+ITB-008,2025-01-08,Nikola Đorđević,Niš,Tastatura,2,3500,7000.0
+ITB-010,2025-01-09,Jelena Ilić,Niš,Laptop,1,92000,92000.0
