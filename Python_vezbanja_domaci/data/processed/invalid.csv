@@ -1,0 +1,3 @@
+name,department,salary,reason
+Jelena Ilić,IT,,missing_salary
+Ivana Marković,hr,abc,invalid_salary
